@@ -1,5 +1,7 @@
 <?php
 
+namespace Database\Factories;
+
 use App\User;
 use App\StudentBoardExam;
 use Faker\Generator as Faker;

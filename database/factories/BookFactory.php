@@ -1,5 +1,7 @@
 <?php
 
+namespace Database\Factories;
+
 use App\Book;
 use App\User;
 use App\School;

@@ -1,5 +1,7 @@
 <?php
 
+namespace Database\Factories;
+
 use App\User;
 use App\Notification;
 use Faker\Generator as Faker;

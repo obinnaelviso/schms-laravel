@@ -1,5 +1,7 @@
 <?php
 
+namespace Database\Factories;
+
 use App\School;
 use App\Myclass;
 use Faker\Generator as Faker;

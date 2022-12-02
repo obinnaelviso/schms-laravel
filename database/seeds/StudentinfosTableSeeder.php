@@ -1,5 +1,7 @@
 <?php
 
+namespace Database\Seeders;
+
 use App\StudentInfo;
 use Illuminate\Database\Seeder;
 

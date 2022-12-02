@@ -1,5 +1,7 @@
 <?php
 
+namespace Database\Factories;
+
 use App\Fee;
 use App\User;
 use App\School;

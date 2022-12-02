@@ -1,5 +1,7 @@
 <?php
 
+namespace Database\Factories;
+
 use App\Exam;
 use App\User;
 use App\Grade;

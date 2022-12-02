@@ -1,5 +1,7 @@
 <?php
 
+namespace Database\Factories;
+
 use App\Exam;
 use App\Myclass;
 use App\ExamForClass;

@@ -65,7 +65,7 @@ return [
     |
     */
 
-    'timezone' => 'Asia/Dhaka',//'UTC',
+    'timezone' => 'Asia/Dhaka', //'UTC',
 
     /*
     |--------------------------------------------------------------------------
@@ -167,8 +167,8 @@ return [
         /*
          * Package Service Providers...
          */
-        Mavinoo\LaravelBatch\LaravelBatchServiceProvider::class,
-        Lab404\Impersonate\ImpersonateServiceProvider::class,
+        // Mavinoo\LaravelBatch\LaravelBatchServiceProvider::class,
+        // Lab404\Impersonate\ImpersonateServiceProvider::class,
         /*
          * Application Service Providers...
          */

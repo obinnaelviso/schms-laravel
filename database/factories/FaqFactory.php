@@ -1,5 +1,7 @@
 <?php
 
+namespace Database\Factories;
+
 use App\Faq;
 use App\User;
 use Faker\Generator as Faker;
